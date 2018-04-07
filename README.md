@@ -1,4 +1,4 @@
-# Smart-Cane-for-blind-people
+# Smart-Stick-for-blind-people
 **This project works to  is for the people who are blind and deaf**
 
 
@@ -12,7 +12,7 @@ The main aim of this research paper is to provide a simple, affordable yet an ef
 -5.Toggle switch
 -6.Arduino Uno
 
-**NOTE:**
+# **NOTE:**
 For complete details about the project reffer my project report
 
 
