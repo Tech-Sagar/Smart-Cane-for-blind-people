@@ -6,10 +6,15 @@ The main aim of this research paper is to provide a simple, affordable yet an ef
 
 **The components for the projects are:**
 -1.Ultrasonic sensors
+
 -2.Piezo buzzer
+
 -3.Vibrator motor
+
 -4.9 volt battery
+
 -5.Toggle switch
+
 -6.Arduino Uno
 
 # **NOTE:**
