@@ -18,6 +18,10 @@ The main aim of this research paper is to provide a simple, affordable yet an ef
 
 -6.Arduino Uno
 
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
 # **NOTE:**
 For complete details about the project reffer my project report
 
